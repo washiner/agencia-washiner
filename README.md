@@ -2,7 +2,5 @@
 
 <h2>Tecnologias estudadas</h2>
 
-#HTML
-#CSS
+#HTML - CSS puro
 
-linguagem pura
